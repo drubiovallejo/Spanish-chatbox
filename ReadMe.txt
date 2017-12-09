@@ -3,9 +3,9 @@
 # Email: drubio@brandeis.edu
 # Github : https://github.com/drubiovallejo/Spanish-chatbox
 
-This folder contains the code to run a Spanish chatbot created as a final project for the class "Ling131: NLP with Python" during my first semester at Brandeis University. All the code in it was written by the author.
+This folder contains the code to run a Spanish chatbot created as a final project for the class "Ling131: NLP with Python" during my first semester in the CL MA at Brandeis University. All the code in it was written by the author.
 
-The chatbot was trained using selected files from the CORLEC oral corpus of cotemporary Spanish (http://www.lllf.uam.es/ESP/Info%20Corlec.html), which are also included here. This project contains 3 python files:
+The chatbot was trained using selected files from the CORLEC oral corpus of contemporary Spanish (http://www.lllf.uam.es/ESP/Info%20Corlec.html), which are also included here. This project contains 3 python files:
 
 - Main.py: Contains the client code and initializes the chatbot. The user can choose from here either of the 3 available algorithms for the chatbot to select its output: a random sentence selector, a selection function based on the Jaccard coefficient, and a selection function based on the TF-IDF measure.
 
