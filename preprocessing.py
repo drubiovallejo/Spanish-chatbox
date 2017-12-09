@@ -11,7 +11,6 @@ import re
 import os
 import sys
 import nltk
-from nltk import word_tokenize, sent_tokenize
 import collections
 import pickle
 import random
